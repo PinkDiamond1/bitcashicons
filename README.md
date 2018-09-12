@@ -1,0 +1,2 @@
+# bitcashicons
+Some BitCash graphics
